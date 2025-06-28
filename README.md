@@ -11,3 +11,7 @@ Very much wokr in progress.
 * Alt-Click when loading installation to load 1
 * Double-Click in many lists to add or cancel task
 * Double-Click system to its map
+
+* Ben's note:  Cloned from https://github.com/stomir/AuroraUIPatch
+* Discovered on Aurora 4x Discord at: https://discord.com/channels/314031775892373504/686205407047319559/1388122570934456393
+* 
